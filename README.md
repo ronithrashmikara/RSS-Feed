@@ -44,7 +44,7 @@ RSS Pulse is a self-hosted RSS aggregator dashboard with a dark editorial UI. It
 
 ```bash
 # Clone
-git clone https://github.com/InfiniteBloom-max/RSS-Feed.git
+git clone https://github.com/ronithrashmikara/RSS-Feed.git
 cd RSS-Feed
 
 # Install
@@ -108,4 +108,4 @@ PORT=12000   # default — override with environment variable
 
 ## License
 
-MIT © [InfiniteBloom-max](https://github.com/InfiniteBloom-max)
+MIT © [ronithrashmikara](https://github.com/ronithrashmikara)
