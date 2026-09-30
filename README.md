@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/assets/banner.webp" alt="RSS Pulse banner" width="100%"></p>
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/RSS-Pulse-7c6ef2?style=for-the-badge&logo=rss&logoColor=white" alt="RSS Pulse" />
